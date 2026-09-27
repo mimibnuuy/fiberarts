@@ -4,7 +4,7 @@ layout: subpage
 
 # Knooking Guides and Tutorials
 
-- [Knitting primer](pages/knittingprimer/)
+- [Knitting primer](pages/knitting-primer/)
 - Cast ons
     - Starting chain
     - Long tail
