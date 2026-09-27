@@ -1,3 +1,7 @@
+---
+layout: subpage
+---
+
 # Knooking Guides and Tutorials
 
 - [Knitting primer](pages/knittingprimer/)
