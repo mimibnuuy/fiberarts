@@ -1,10 +1,12 @@
-# Knooking Mimi
+# Fiber Arts
+
+## Knooking
 
 Guides of topics on knooking.
 
-## Notes
+### Notes
 
-### Slip Stitches
+#### Slip Stitches
 
 - eastern slip stitch knitwise
 - western slip stitch purlwise
@@ -13,7 +15,7 @@ Guides of topics on knooking.
 
 Changing from Western to Eastern and vice versa
 
-### Cast ons
+#### Cast ons
 
 - long tail cast on extra stitch and slip it into hook before knitting second stitch
 - knitted cast on on knook
@@ -21,10 +23,11 @@ Changing from Western to Eastern and vice versa
 - Judy's magic cast on
 - simple (thumb?)
 
-### Misc.
+#### Misc.
 
 - working in the front loop for knits and back loop for purls
 - Wrapping clockwise and counterclockwise depending on style and mount desired
 - Left-handed in summary boxes
+- Western knit - tighter, eastern knit looser. Western purl - looser, eastern purl - tighter.
 
 redeploying
