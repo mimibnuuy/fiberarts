@@ -11,7 +11,7 @@ layout: index
 
 ## Knooking Guides and Tutorials
 
-- [Knitting primer](knooking/pages/knitting-primer/)
+- [Knitting primer](pages/knooking/knitting-primer/)
 - Cast ons
     - Starting chain
     - Long tail
