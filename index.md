@@ -6,7 +6,7 @@ layout: index
 
 ## Crochet Patterns
 
-- Sunglasses bag
+- [Sunglasses Case](pages/crochet-patterns/sunglasses-case/)
 - Ear saver
 
 ## Knooking Guides and Tutorials
