@@ -9,9 +9,9 @@ layout: index
 - [Sunglasses Case](pages/crochet-patterns/sunglasses-case/)
 - Ear saver
 
-## Knooking Guides and Tutorials
+## Knooking Guides
 
-- [Knitting primer](pages/knooking/knitting-primer/)
+- [Knitting primer](pages/knooking-guides/knitting-primer/)
 - Cast ons
     - Starting chain
     - Long tail
